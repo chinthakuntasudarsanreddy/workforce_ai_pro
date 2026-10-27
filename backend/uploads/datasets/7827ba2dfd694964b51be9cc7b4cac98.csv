@@ -1,0 +1,5 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,Attrition
+1001,29,Sales,Sales Executive,45000,3,No
+1002,41,Research,Research Scientist,65000,8,No
+1003,25,Sales,Sales Representative,32000,1,Yes
+1003,25,Sales,Sales Representative,32000,1,Yes
